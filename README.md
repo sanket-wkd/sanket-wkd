@@ -16,3 +16,12 @@ Here are some ideas to get you started:
 -->
 
 ![snake gif](https://github.com/sanket-wkd/sanket-wkd/blob/output/github-contribution-grid-snake.gif)
+
+
+# Hi, I'm Sanket 👋
+
+Welcome to my GitHub profile!
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/sanket-wkd/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg)
